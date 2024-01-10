@@ -4,9 +4,9 @@
 
 ## About me
 * :books: **Education:** **BTech. Medical Engineer**
-* :heart: **Loves:** Architecture 👷🏽‍♂️,Programming🖥, Writer/Poet✍️,Research 🔍.
+* :heart: **Loves:** Inventions and Innovations 👨🏽‍🔧, Programming 🖥, Writer/Poet ✍️,Research 🔍.
 * :pushpin: **Location:** Nairobi, Kenya
-* **Current activity:** learning the technological inventions and innovations in Medical Sector👷🏽‍♂️: (<a href="mailto:al.tech.solution2.0@gmail.com?subject=How's the Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
+* **Current activity:** learning the technological inventions and innovations in Medical Sector👨🏽‍🔧: (<a href="mailto:al.tech.solution2.0@gmail.com?subject=How's the Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
 
