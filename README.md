@@ -1,6 +1,6 @@
 # <span style="color: rgb(271,58,124)">Mofy Ally, Up for the Task!</span> :👋:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-tech-solution-b618b1239/)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Architect👷🏗️;Software+Engineer🖥️;Writer/Poet✍️;Experimenter🧠;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=MedicalEnginer🧑🏾‍💻👨🏽‍🔧;Software+Engineer🖥️;Writer/Poet✍️;Experimenter🧠;)](https://git.io/typing-svg)
 
 ## About me
 * :books: **Education:** **BTech. Medical Engineer**
